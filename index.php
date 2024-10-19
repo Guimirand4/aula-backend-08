@@ -7,15 +7,14 @@
 </head>
 <body>
     <h1>Introdução a programação backend</h1>
-    <h1>Introdução à programação backend</h1>
     <br/>
 
     <?php
-        echo 'Olá, José';
+        echo 'Olá, Guilherme';
         echo '<br/>';
 
         //Cria uma variável chamada ano_nascimento
-        $ano_nascimento = 1993;    
+        $ano_nascimento = 2004;    
 
         //Cria uma variável  chamada ano_atual, que armazena o ano em que estamos
         $ano_atual = 2024;
